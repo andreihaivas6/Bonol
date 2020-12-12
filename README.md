@@ -11,9 +11,11 @@ The L game is a simple abstract strategy board game invented by Edward de Bono. 
 
 <img width="600" src="https://github.com/andreihaivas6/L-Game-Bonol/blob/master/bonol/q1.png">
 
+<img width="600" src="https://github.com/andreihaivas6/L-Game-Bonol/blob/master/bonol/q4.png">
+
 <img width="600" src="https://github.com/andreihaivas6/L-Game-Bonol/blob/master/bonol/q2.png">
 
 <img width="600" src="https://github.com/andreihaivas6/L-Game-Bonol/blob/master/bonol/q3.png">
 
-<img width="600" src="https://github.com/andreihaivas6/L-Game-Bonol/blob/master/bonol/q4.png">
+
 
