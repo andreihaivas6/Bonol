@@ -7,7 +7,7 @@ The L game is a simple abstract strategy board game invented by Edward de Bono. 
  * Modes: Player vs Player, Player vs Player (special), Player vs Computer (3 levels of dificulty)
  * Tutorial with game decription
  * Settings: sound/music volume, language, resolution
- * Configuration: colors, players names
+ * Configuration: colors, players names etc.
 
 <img width="600" src="https://github.com/andreihaivas6/L-Game-Bonol/blob/master/bonol/q1.png">
 
